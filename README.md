@@ -1,19 +1,6 @@
 MyExpenses
 ==========
 
-GPL licenced Android Expense Tracking App.
-
-*My Expenses* is an Android app designed to keep
-  track of your expenses and incomes, and to export them as QIF files into a desktop
-  finance tool, like <a href="http://www.grisbi.org">Grisbi</a> (Open Source), <a
-  href="http://www.gnucash.org">Gnucash</a> (Open Source), MS Money, Quicken or Wiso Mein Geld.<br />
-  Works on Android 5.0 and above.
- 
-<a href="https://f-droid.org/packages/org.totschnig.myexpenses" target="_blank">
-<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="90"/></a>
-<a href="https://play.google.com/store/apps/details?id=org.totschnig.myexpenses" target="_blank">
-<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="90"/></a>
-
 Features
 ========
 - Up to five accounts with transfers (unlimited in Contrib version)
