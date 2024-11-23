@@ -77,7 +77,7 @@ Build
 =====
 
 ```sh
-git clone --depth 1 https://github.com/mtotschnig/MyExpenses.git
+git clone --depth 1 https://github.com/Gowthamx0117/NM-Project.git
 cd MyExpenses
 export ANDROID_HOME={sdk-dir}
 ./gradlew build
